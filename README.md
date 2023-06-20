@@ -49,6 +49,9 @@
 
 ![port-forward](https://github.com/ALEMOLOKOV/12.1_K8S_cubectl_Aleksandr_Molokov/assets/109212419/d095aff2-2172-4b10-9a8b-384941d2a359)
 
+![kubectl-portforward](https://github.com/ALEMOLOKOV/12.1_K8S_cubectl_Aleksandr_Molokov/assets/109212419/dadfc713-fe3a-4f2e-ac70-5b6dbd6b5a8f)
+
+
 
 
 
