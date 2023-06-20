@@ -32,27 +32,23 @@
 
 ![обновление сертификата](https://github.com/ALEMOLOKOV/12.1_K8S_cubectl_Aleksandr_Molokov/assets/109212419/f4d34753-e9ca-485f-b9b9-7001a41ce526)
 
-Я Правильно понимаю, что все сертификаты и ключи которые нужны для подключения находятся в директории
-![image](https://github.com/ALEMOLOKOV/12.1_K8S_cubectl_Aleksandr_Molokov/assets/109212419/a378008b-f170-4a09-970b-571c60695cdc)
-
- Их можно испольховать для написания config файла для kubectl?
-
 ------
 
 ### Задание 2. Установка и настройка локального kubectl
 1. Установить на локальную машину kubectl.
 
-Устанавливаю на туже ВМ
+
 
 ![2  kubectl install](https://github.com/ALEMOLOKOV/12.1_K8S_cubectl_Aleksandr_Molokov/assets/109212419/af07da54-e83f-4c75-84b1-107fedb6a1ad)
 
 2. Настроить локально подключение к кластеру.
-
-Понятно что нужно написать config файл, но не понимаю где брать ключи для подключения к серверу и пользователю.
-Config файл без ключей и сертификатов
-
-![config](https://github.com/ALEMOLOKOV/12.1_K8S_cubectl_Aleksandr_Molokov/assets/109212419/bcfb821c-10fc-4a16-9683-b301f7550927)
+Команда kubectl get nodes
+![kubectlget nodes](https://github.com/ALEMOLOKOV/12.1_K8S_cubectl_Aleksandr_Molokov/assets/109212419/a9048e28-c703-49ca-a601-831fedceed8c)
 
 3. Подключиться к дашборду с помощью port-forward.
+
+![port-forward](https://github.com/ALEMOLOKOV/12.1_K8S_cubectl_Aleksandr_Molokov/assets/109212419/d095aff2-2172-4b10-9a8b-384941d2a359)
+
+
 
 
